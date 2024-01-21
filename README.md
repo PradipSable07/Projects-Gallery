@@ -1,4 +1,4 @@
-# Project Portfolio Showcase
+# [Project Portfolio Showcase](https://project-gallery-pss.netlify.app/)
 
 ## Overview
 
@@ -26,4 +26,4 @@ Welcome to my Project Portfolio Showcase! This web application is built using Re
 
 For any inquiries or feedback, please contact me at pradipsubhashsable@gmail.com.
 
-Thank you for visiting my [Project Portfolio Showcase](https://project-gallery-pss.netlify.app/)! 🚀
+Thank you for visiting my Project Portfolio Showcase! 🚀
