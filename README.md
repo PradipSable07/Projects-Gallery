@@ -24,6 +24,6 @@ Welcome to my Project Portfolio Showcase! This web application is built using Re
 
 ## Contact
 
-For any inquiries or feedback, please contact me at your-email@example.com.
+For any inquiries or feedback, please contact me at pradipsubhashsable@gmail.com.
 
 Thank you for visiting my [Project Portfolio Showcase](https://project-gallery-pss.netlify.app/)! 🚀
